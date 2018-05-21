@@ -1,0 +1,82 @@
+.logo{
+    float: left;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+.clear{
+    clear: both;
+}
+.header{
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.main{
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.pesquisa{
+    float:left;
+    border: 1px solid black;
+    width: 48%;
+}
+.pesquisa  ul{
+    list-style-type: none;
+}
+
+.pesquisa  ul>li{
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+.destaque{
+    float:right;
+    width: 49%;
+    margin-top:-62px;
+}
+
+.imgdes {
+     position: relative;
+}
+.imgdes img {
+    width: 100%;
+    display: block;
+}
+.imgdes >figcaption {
+    background-color: darkgray;
+    width: 100%;
+    opacity: 0.5;
+    color: #FFF;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.leftside{
+    float:left;
+    width: 48%;
+}
+.rightside{
+    float:right;
+    width: 48%;
+}
+
+.minislide{
+    float:left;
+    margin-top:-5px;
+}
+.minislide >img{
+    width:100px;
+    height:65px;
+}
+
+.form  ul{
+    list-style-type: none;
+}
+.form li{
+    margin-top:10px;
+}
+.leftside td{
+    padding:0;
+}
